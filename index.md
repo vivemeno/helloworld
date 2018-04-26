@@ -1,6 +1,6 @@
 ## Hello World!!!
 Following are some writings :
-1. [Web Server Threads](https://github.com/vivemeno/helloworld/webServerWorking.md)
+1. [Web Server Threads](https://vivemeno.github.io/helloworld/webServerWorking)
 Some stuff on web servers.
 
 ### Markdown
